@@ -15,12 +15,13 @@ A beginner-to-intermediate-friendly project that walks you through the **entire 
 
 This project covers the **complete preprocessing & EDA pipeline**, built step-by-step:
 
-| Notebook                         | Description                                                                              |
-|----------------------------------|------------------------------------------------------------------------------------------|
-| `0_handle_missing_values.ipynb`  | Identify & handle missing values using LLM                                               |
-| `1_handle_outliers.ipynb`        | Detect & treat outliers                                                                  |
-| `2_feature_binning.ipynb`        | Continuous numerical features are grouped into discrete bins or intervals (in progress)  |
-| *Coming soon...*                 | Feature scaling, encoding, correlation, etc.                                             |
+| Notebook                         | Description                                                                                            |
+|----------------------------------|--------------------------------------------------------------------------------------------------------|
+| `0_handle_missing_values.ipynb`  | Identify & handle missing values using LLM                                                             |
+| `1_handle_outliers.ipynb`        | Detect & treat outliers                                                                                |
+| `2_feature_binning.ipynb`        | Continuous numerical features are grouped into discrete bins or intervals                              |
+| `3_feature_encoding.ipynb`       | (in progress)                                                                                          |  
+| *Coming soon...*                 | Feature scaling, correlation, etc.                                                                     |
 
 ## 📁 **Folder structure:**
 
