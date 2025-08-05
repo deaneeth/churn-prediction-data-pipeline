@@ -15,13 +15,14 @@ A beginner-to-intermediate-friendly project that walks you through the **entire 
 
 This project covers the **complete preprocessing & EDA pipeline**, built step-by-step:
 
-| Notebook                         | Description                                                                                            |
-|----------------------------------|--------------------------------------------------------------------------------------------------------|
-| `0_handle_missing_values.ipynb`  | Identify & handle missing values using LLM                                                             |
-| `1_handle_outliers.ipynb`        | Detect & treat outliers                                                                                |
-| `2_feature_binning.ipynb`        | Continuous numerical features are grouped into discrete bins or intervals                              |
-| `3_feature_encoding.ipynb`       | (in progress)                                                                                          |  
-| *Coming soon...*                 | Feature scaling, correlation, etc.                                                                     |
+| Notebook                         | Description                                                                                                           |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| `0_handle_missing_values.ipynb`  | Identify & handle missing values using LLM                                                                            |
+| `1_handle_outliers.ipynb`        | Detect & treat outliers                                                                                               |
+| `2_feature_binning.ipynb`        | Continuous numerical features are grouped into discrete bins or intervals                                             |
+| `3_feature_encoding.ipynb`       | Converting categorical or text data into a numerical format that machine learning models can understand and utilize   | 
+| `4_feature_scaling.ipynb`        | (in progress)                                                                                                         |
+| *Coming soon...*                 | Correlation, etc.                                                                                                     |
 
 ## 📁 **Folder structure:**
 
@@ -56,7 +57,7 @@ This project covers the **complete preprocessing & EDA pipeline**, built step-by
 - 📚 Step-by-step & easy to follow
 - 🧠 LLM-assisted imputations (cool and practical!)
 - 🧼 Realistic focus on *data cleaning*, not just modeling
-- 💾 Includes raw + processed data files
+- 💾 Includes raw + processed data files with step by step Jupyter Notebooks
 
 ---
 
