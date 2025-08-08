@@ -21,13 +21,15 @@ This project covers the **complete preprocessing & EDA pipeline**, built step-by
 | `1_handle_outliers.ipynb`        | Detect & treat outliers                                                                                               |
 | `2_feature_binning.ipynb`        | Continuous numerical features are grouped into discrete bins or intervals                                             |
 | `3_feature_encoding.ipynb`       | Converting categorical or text data into a numerical format that machine learning models can understand and utilize   | 
-| `4_feature_scaling.ipynb`        | Data preprocessing technique used to standardize or Normalize the range of independent variables or features of data  |                                                                                                       |
+| `4_feature_scaling.ipynb`        | Data preprocessing technique used to standardize or Normalize the range of independent variables or features of data  |
+
+---
 
 ## 📁 **Folder structure:**
 
 ```
-- 📂 raw/ → raw input dataset
 - 📂 processed/ → cleaned and transformed versions
+- 📂 raw/ → raw input dataset
 - 📓 Notebooks → each preprocessing step in a separate notebook
 ```
 ---
