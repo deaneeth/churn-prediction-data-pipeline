@@ -53,6 +53,18 @@ This project covers the **complete preprocessing & EDA pipeline**, built step-by
 
 ---
 
+## 🚀 Getting Started
+
+To get started with this repo, clone the repository and install the required dependencies:
+
+```
+git clone https://github.com/deaneeth/churn-prediction-data-pipeline.git
+cd churn-prediction-data-pipeline
+pip install -r requirements.txt
+```
+
+---
+
 ## 🌟 Why You’ll Like It
 
 - 📚 Step-by-step & easy to follow
