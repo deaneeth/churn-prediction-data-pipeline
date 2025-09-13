@@ -82,3 +82,5 @@ Please read the [contributing guidelines](CONTRIBUTING.md) first.
 
 ### 👀 Want to learn how data scientists **actually clean data** before modeling?  
 You’re in the right place. Let's build this together.
+
+_Created with ❤️ by [deaneeth](https://github.com/deaneeth)_
